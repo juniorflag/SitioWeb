@@ -1,0 +1,52 @@
+/* You can add global styles to this file, and also import other style files */
+.miColor 
+{
+    color: rgb(205, 50, 135) ;
+}
+#body
+{
+    background: #131012 ;
+}
+#header {
+    background: #24071e;
+}
+#footer {
+
+    background: #24071e;
+   
+}
+#footer a {
+    color: white;
+}
+#main .carousel-inner img {
+
+max-height: 70vh;
+object-fit: fill;
+
+
+}
+#carousel {
+    position: relative;
+}
+
+    
+   
+#header img{
+    width: 180px;
+}
+.tarjetas
+{
+    background: #24071e;
+    
+}
+.Colorheader
+{
+   color: #0a58ca;
+}
+#main .form-group input
+{
+    font-size: 1.5rem;
+}
+
+   
+
